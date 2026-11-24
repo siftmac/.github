@@ -17,7 +17,7 @@ SiftMac finds what's filling your Mac and gives every item a verdict: safe, rebu
 
 - Scanning is free, and so is the first 2 GB of cleaning.
 - One-time purchase for 2 Macs, with free updates and a 14-day refund.
-- macOS 14 or later, Apple silicon and Intel.
+- macOS 14 or later, on Apple silicon (M1 or later).
 - Help: support@siftmac.com
 
 SiftMac is one word, at [siftmac.com](https://siftmac.com). It isn't related to Sift (sift-mac.com), a different app by a different company.
